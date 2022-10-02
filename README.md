@@ -10,9 +10,9 @@ The user is [Ashwin Sakthi](https://github.com/ashwinsakthi) here on GitHub.
 
 ###### As a side note, Terminal shortcuts that work in Visual Studio Code seem to work in IntelliJ's terminal as well. In particular:
 ```java
-* git add .
-* git commit -m "message goes here"
-* git push
+* <git add .>
+* <git commit -m "message goes here">
+* <git push>
 ```
 
 ##### Forking 
