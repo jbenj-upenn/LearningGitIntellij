@@ -7,3 +7,8 @@ Following this channel's Git/GitHub tutorial on connecting to IntelliJ, since my
 The [tutorial](https://www.youtube.com/watch?v=HfYZvcP0Muo&list=PL-13q2cAP-nYDf3ERqumS65wrc6RXdKrV) is from user [Stream2Learn](https://www.youtube.com/channel/UCjO8Jq2sdpuI134axhMp0Fg).
  
 The user is [Ashwin Sakthi](https://github.com/ashwinsakthi) here on GitHub.
+
+###### As a side note, Terminal shortcuts that work in Visual Studio Code seem to work in IntelliJ's terminal as well. In particular:
+* <git add .>;
+* <git commit -m "message goes here">;
+* <git push>;
