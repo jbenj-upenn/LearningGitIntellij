@@ -14,3 +14,9 @@ The user is [Ashwin Sakthi](https://github.com/ashwinsakthi) here on GitHub.
 * git commit -m "message goes here"
 * git push
 ```
+
+##### Forking 
+Begins at 00:19:30 in the tutorial. 
+* Pull Requests
+    * Owner of the repo must accept them ()
+* 
